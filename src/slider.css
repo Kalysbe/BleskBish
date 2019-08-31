@@ -1,0 +1,24 @@
+.slick-slider {
+    top:700px;
+    overflow: hidden;
+}
+
+
+.image {
+    width: 200px;
+    height: 150px;
+    background: white;
+    
+}
+  
+.client {
+    position: absolute;
+    font-size: 40px;
+    color:blue;
+    top:600px;
+    right: 500px;
+}
+
+.slide img {
+    padding: 15px;
+}
