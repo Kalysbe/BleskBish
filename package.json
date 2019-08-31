@@ -1,19 +1,15 @@
 {
-  "name": "makers-json-server",
+  "name": "blesk-bish",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^6.4.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-responsive-carousel": "^3.1.50",
-    "react-scripts": "3.1.1",
-    "react-slick": "^0.25.2",
-    "react-slideshow-image": "^1.2.2",
-    "slick-carousel": "^1.8.1"
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.1.1"
   },
   "scripts": {
-    "start": "set PORT=3006 && react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
